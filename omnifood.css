@@ -2,8 +2,6 @@ body {
   margin: 0;
   padding: 0;
   font-family: 'Slabo 27px', serif;
-  background-color: #F4F4F4;
-
 }
 
 nav {
@@ -82,7 +80,9 @@ header #showMeMore:hover {
   transition: 0.5s;
 }
 
-.block2 {}
+.block2 {
+  background-color: #fff;
+}
 
 .block2>div {
   margin: auto;
@@ -110,6 +110,7 @@ header #showMeMore:hover {
 
 .block3 {
   display: flex;
+  background-color: #fff;
 }
 .block3 .icons {
   color: #e67e22;
