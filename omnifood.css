@@ -111,7 +111,10 @@ header #showMeMore:hover {
 .block3 {
   display: flex;
 }
-
+.block3 .icons {
+  color: #e67e22;
+  font-size: 4.5em;
+}
 .block3 h3 {
   font-size: 22px;
 }
