@@ -20,18 +20,14 @@ nav ul {
 }
 
 nav > ul a {
+  color: #fff;
   text-decoration: none;
-  color: #e67e22;
-  border: 2px solid #e67e22;
-  padding: 0.6em 1.3em;
-  border-radius: 50px;
-  transition: 1s;
+  padding-bottom: 0.5em;
 }
 
 nav > ul a:hover {
-  color: #fff;
-  background-color: #e67e22;
-  transition: 1s;
+
+  border-bottom: 2px solid #e67e22;
 }
 nav img {
   margin-top: 1em;
@@ -126,19 +122,6 @@ header #showMeMore:hover {
 
 .block3 div {
   margin: auto;
-}
-
-.block3 #first {
-  border-top: 2px solid #555555;
-  border-left: 2px solid #555555;
-  padding-left: 0.4em;
-}
-
-.block3 #last {
-  border-bottom: 2px solid #555555;
-  border-right: 2px solid #555555;
-  padding-right: 0.4em;
-
 }
 
 .block4 {
