@@ -279,7 +279,9 @@ header #showMeMore:hover {
   color: #fff;
   margin: auto;
 }
-
+#cote {
+  font-size: 63px;
+}
 .customers {
   border-radius: 50%;
   width: 3em;
